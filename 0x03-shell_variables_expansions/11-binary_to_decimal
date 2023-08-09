@@ -1,2 +1,2 @@
 #!/bin/bash
-ehco ((2#$BINARY))
+ehco $((2#$BINARY))
